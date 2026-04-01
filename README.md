@@ -1,3 +1,4 @@
+![acromantula-logo](logo.png)
 # Acromantula 🕷️
 Acromantula is a high-throughput HTTP reverse proxy written in Rust.
 
