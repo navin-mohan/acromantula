@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="logo.png" alt="Logo" width="200"/>
+  <img src="logo.png" alt="Logo" width="400"/>
 </p>
+
 # Acromantula 🕷️
 Acromantula is a fast HTTP reverse proxy written in Rust.
 
