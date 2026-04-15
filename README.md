@@ -2,6 +2,9 @@
 # Acromantula 🕷️
 Acromantula is a high-throughput HTTP reverse proxy written in Rust.
 
+## Blog
+You can find detailed development blog posts on my [Substack](https://navinmohan.substack.com/t/acromantula).
+
 ## Milestones
 - [ ] Single backend relay (static backend config)
 - [ ] Simple logging
